@@ -1,0 +1,1 @@
+© 2015 Global Trade. Торговый дом.   Global Class/ Обучающий центр.

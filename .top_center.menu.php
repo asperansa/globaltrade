@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О центре", 
+		"about-center/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Курсы", 
+		"courses/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Календарь событий", 
+		"events/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Лекторы", 
+		"leaders/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Блоги", 
+		"blogs/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

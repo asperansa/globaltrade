@@ -1,0 +1,64 @@
+arFields Array
+(
+    [NAME] => Тест
+    [PREVIEW_TEXT_TYPE] => text
+    [PREVIEW_TEXT] => Внимание! Тест формы
+    [MODIFIED_BY] => 0
+    [PROPERTY_VALUES] => Array
+        (
+            [34] => +7(999)-999-99-99
+            [35] => asperansa@gmail.com
+        )
+
+    [ACTIVE] => N
+    [IBLOCK_ID] => 20
+    [DATE_ACTIVE_FROM] => 29.03.2015 21:38:38
+    [ACTIVE_FROM] => 29.03.2015 21:38:38
+    [SEARCHABLE_CONTENT] => ТЕСТ
+ВНИМАНИЕ! ТЕСТ ФОРМЫ
+    [CREATED_BY] => 0
+    [~DATE_CREATE] => now()
+    [~TIMESTAMP_X] => now()
+    [XML_ID] => 430
+    [ID] => 430
+    [RESULT] => 430
+)
+$_POST Array
+(
+    [bxajaxid] => 3f96e604f86806f63a3407e0c87b72dd
+    [AJAX_CALL] => Y
+    [sessid] => 369d6724accf37ef57b21d1be42d9d3f
+    [form_id] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_term] => 
+    [utm_content] => 
+    [cm_title] => 
+    [location] => Форма: Напишите нам
+    [PROPERTY] => Array
+        (
+            [PREVIEW_TEXT] => Array
+                (
+                    [0] => Тест формы
+                )
+
+            [NAME] => Array
+                (
+                    [0] => Тест
+                )
+
+            [34] => Array
+                (
+                    [0] => +7(999)-999-99-99
+                )
+
+            [35] => Array
+                (
+                    [0] => asperansa@gmail.com
+                )
+
+        )
+
+    [iblock_submit] => Отправить
+)
